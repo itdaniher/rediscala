@@ -1,4 +1,4 @@
-package redis.util
+package redis
 
 object CRC16 {
 
