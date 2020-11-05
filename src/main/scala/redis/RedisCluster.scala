@@ -7,7 +7,6 @@ import akka.event.Logging
 import akka.util.ByteString
 import redis.api.clusters.{ClusterNode, ClusterSlot}
 import redis.protocol.RedisReply
-import redis.CRC16
 
 import scala.concurrent.duration.Duration
 import scala.concurrent.stm.Ref
